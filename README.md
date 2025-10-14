@@ -2,6 +2,7 @@
 Title: Pandas Series Basics and Operations
 Description: Practice file covering creation, indexing, arithmetic, filtering,
              sorting, duplicates, and basic stats using Pandas Series.
+             <br>
 Author: Vivek Shah
 Date: 14-Oct-2025
 """

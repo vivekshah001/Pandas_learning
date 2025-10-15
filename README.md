@@ -21,16 +21,13 @@ Covers the fundamentals of **Pandas Series**, including:
 - Practical exercises on Series manipulation
 
 
+
+
 🧩 02_dataframe_creation_and_inspection.py
 
 Includes:
-
 Creating DataFrames from multiple sources (lists, dictionaries, CSV)
-
 Inspecting structure with .shape, .dtypes, .index, .columns, .values
-
 Viewing data using .head(), .tail(), and .sample()
-
 Selecting specific columns and rows using [], .iloc, and .loc
-
 Renaming columns and setting indexes with .rename() and .set_index()

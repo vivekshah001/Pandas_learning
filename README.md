@@ -23,7 +23,7 @@ Covers the fundamentals of **Pandas Series**, including:
 
 
 
-🧩 02_dataframe_creation_and_inspection.py
+🧩 02_Dataframe_basic_and_function.py
 
 Includes:<br>
 -Creating DataFrames from multiple sources (lists, dictionaries, CSV)<br>

@@ -22,12 +22,10 @@ Covers the fundamentals of **Pandas Series**, including:
 
 
 
-🧩 02_dataframe_creation_and_inspection.py
-
-Includes:
-
--DataFrame creation from multiple sources
--.shape, .dtypes, .index, .columns, .values
--.head(), .tail(), .sample()
--Column and row selection ([], .iloc, .loc)
--Column renaming and index setting
+🧩 02_dataframe_creation_and_inspection.py<br>
+Includes:<br>
+-DataFrame creation from multiple sources<br>
+-.shape, .dtypes, .index, .columns, .values<br>
+-.head(), .tail(), .sample()<br>
+-Column and row selection ([], .iloc, .loc)<br>
+-Column renaming and index setting<br>

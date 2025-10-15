@@ -27,11 +27,7 @@ Covers the fundamentals of **Pandas Series**, including:
 Includes:
 
 -DataFrame creation from multiple sources
-
 -.shape, .dtypes, .index, .columns, .values
-
 -.head(), .tail(), .sample()
-
 -Column and row selection ([], .iloc, .loc)
-
 -Column renaming and index setting

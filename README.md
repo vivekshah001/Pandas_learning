@@ -31,4 +31,4 @@ Includes:<br>
 -Viewing data using .head(), .tail(), and .sample()<br>
 -Selecting specific columns and rows using [], .iloc, and .loc<br>
 -Renaming columns and setting indexes with .rename() and .set_index()<br>
-.
+

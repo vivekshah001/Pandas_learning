@@ -36,12 +36,12 @@ Includes:<br>
 🧩 03_employee_data_merge_concat_practice.py
 Hands-on practice file demonstrating various merge and concatenation operations in Pandas using sample employee, salary, project, and bonus data.
 
-Includes:
-Inner and left joins using pd.merge()
-Merging on different column names (left_on, right_on)
-Multi-level merging across multiple DataFrames
-Filling and handling missing values post-merge
-Vertical and horizontal concatenation with pd.concat()
-Concatenation with ignore_index and axis parameters
-Observing structure differences after row/column concatenation
+Includes:<br>
+Inner and left joins using pd.merge()<br>
+Merging on different column names (left_on, right_on)<br>
+Multi-level merging across multiple DataFrames<br>
+Filling and handling missing values post-merge<br>
+Vertical and horizontal concatenation with pd.concat()<br>
+Concatenation with ignore_index and axis parameters<br>
+Observing structure differences after row/column concatenation<br>
 
